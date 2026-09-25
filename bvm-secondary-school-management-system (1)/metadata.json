@@ -1,0 +1,6 @@
+{
+  "name": "BVM Secondary School Management System",
+  "description": "Internal school administration and management system for BVM Secondary School, Nagdi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
